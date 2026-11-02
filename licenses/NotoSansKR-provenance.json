@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/google/fonts",
+  "commit": "b38c5c93af322c45f633e17ac440ec1e6c94d489",
+  "font": "ofl/notosanskr/NotoSansKR[wght].ttf",
+  "license": "OFL.txt",
+  "original_sha256": "194018e6b2b293a7964f037b25c0249ce1418bc9ab3c971060a03aa57861e252",
+  "bundled_sha256": "e34745f7a249ed6d887827a34ffe180f294fbd4b7ee93004b0ec2189ea98681c",
+  "transformation": "Static Regular instance, wght=400; no glyph subset or redraw",
+  "fonttools_version": "4.67.0",
+  "complete_Hangul_syllables": 11172
+}

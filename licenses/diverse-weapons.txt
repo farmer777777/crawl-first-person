@@ -1,0 +1,23 @@
+Diverse Weapons 1.7.3
+
+무기 스프라이트 원작자: RealAKP
+원작 배포 페이지: https://www.nexusmods.com/daggerfallunity/mods/242
+원작 코드 크레딧: RealAKP & Kirk.O
+PNG 변환 출처: DFO Online / Lattymoy
+https://github.com/Lattymoy/daggerfall-js-source
+사용한 변환본 commit: 27524cb641efd04849b5aab6f35cfc44e452e92c
+
+사용·배포 조건 확인일: 2026-10-17 (한국 시간)
+위 Nexus Mods 페이지의 Permissions and credits를 확인했습니다.
+- 다른 게임으로 변환할 수 있으며 원작자 RealAKP를 표기합니다.
+- 원작 파일의 수정·개선본에도 원작자 크레딧을 유지합니다.
+- 에셋 사용이 허용되어 있으며, 판매하는 모드·파일에는 사용할 수 없습니다.
+- 원본 모드 아카이브를 다른 사이트에 그대로 재업로드할 수 없습니다.
+이 프로젝트는 원본 모드 아카이브를 다시 배포하는 대신, 기존에 포함된
+변환 PNG와 호환용 표시 코드를 사용합니다. 원작 PNG 픽셀은 임의 생성하지 않습니다.
+원작 스크립트의 MIT 표기는 코드에 대한 표기이며, 그림 전체를 MIT로 재허가하지 않습니다.
+
+모션 참고: Diverse Weapons가 제공하는 무기별 프레임과 권장 프리셋.
+Weapon Widget 1.6: RedRoryOTheGlen. 호환 동작은 DFO Online에 기록된
+원작 프레임·배치·프리셋 코드에 근거하며, 원본 돌죽의 전투 시간·피해를 대체하지 않습니다.
+기존 Bethesda/Daggerfall, DCSS 및 DFO Online 크레딧과 사용 조건도 유지합니다.
