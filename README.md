@@ -29,7 +29,8 @@ also passes slowly when you stand still.
 
 The engine is GPL v2 or later. The corresponding source for this build
 (modified Crawl source, first-person renderer, web build scripts) is
-attached to the [releases](../../releases) of this repository. The
+attached to the [releases](../../releases) of this repository; see
+`FIRST-PERSON.md` inside it for build instructions. The
 original first-person project and its Windows builds:
 https://github.com/gjinnovation3rd-prog/kunjang-aidx-crawl-first-person
 
